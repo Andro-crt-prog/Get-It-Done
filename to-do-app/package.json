@@ -1,0 +1,16 @@
+{
+  "name": "todo-list-app",
+  "version": "1.0.0",
+  "description": "A simple to-do list application",
+  "main": "src/backend/app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/backend/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "cors": "^2.8.5"
+  },
+  "author": "",
+  "license": "ISC"
+}
